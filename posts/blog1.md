@@ -5,4 +5,5 @@ In order to make predictions about the outcome of the 2020 Presidential Election
 
 #### Swing state map extension
 In the map below, we see the change in each parties share of the vote from one election to the next in every election from 1980 to the present. Darker blue states indicate states that have seen their vote share move in favor of Democrats and darker red states have seen their vote shaere move in favor of Republicans in each given election cycle.
-![Image](Vote_share_change.png)
+
+![](https://raw.githubusercontent.com/eric-white2021/gov1347blog/gh-pages/Vote_share_change.png)
