@@ -35,3 +35,21 @@ The unemployment rate, on the whole, is probably a better representation of how 
 ![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/URpv2p.png?raw=true)
 
 <sub><sup>Arizona in top left; Florida in top right; Pennsylvania in bottom left; Wisconsin in bottom right</sup></sub>
+
+## Labor force participation rate
+One would assume that when the labor force participation rate is higher, citizens feel more invested in their home state's economy and are thus more secure and satisfied economically. This is certainly a simplification, but that phenomenon could explain why there is a relatively clear positive trend in that direction looking at the data. In Arizona, Pennsylvania, and Wisconsin, the trend is noticeably positive and the error bands are smaller than on other graphs. Though it is hard to say that the results are statistically significant, the trend is still worth noting and incorporating into a model. Again, it probably would have been helpful to include national data as a point of comparison, but the state data intuitively seemed like it would be more useful to explore when thinking about a statewide race. 
+
+
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/LFPRpv2p.png?raw=true)
+
+<sub><sup>Arizona in top left; Florida in top right; Pennsylvania in bottom left; Wisconsin in bottom right</sup></sub>
+
+## Prediction results
+
+|           | Arizona                     | Florida                     | Pennsylvania                  | Wisconsin                     |
+|-----------|-----------------------------|-----------------------------|-------------------------------|-------------------------------|
+| Actual    | 51.89%-48.11% Trump victory | 50.62%-49.38% Trump victory | 50.38%-49.62% Trump victory   | 50.41%-49.59% Trump victory   |
+| Predicted | 52.57%-47.43% Trump victory | 54%-46% Trump victory       | 59.38%-40.62% Clinton victory | 54.81%-45.19% Clinton victory |
+| Error     | 0.68                        | 3.38                        | 9.75                          | 5.22                          |
+
+In general, the prediction results were inconclusive. I would like to explore what the result would be if I excluded the inflation variable, as that seemed to add additional unnecessary noise.
