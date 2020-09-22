@@ -52,4 +52,4 @@ One would assume that when the labor force participation rate is higher, citizen
 | Predicted | 52.57%-47.43% Trump victory | 54%-46% Trump victory       | 59.38%-40.62% Clinton victory | 54.81%-45.19% Clinton victory |
 | Error     | 0.68                        | 3.38                        | 9.75                          | 5.22                          |
 
-In general, the prediction results were inconclusive. I would like to explore what the result would be if I excluded the inflation variable, as that seemed to add additional unnecessary noise.
+In general, the prediction results were inconclusive. I would like to explore what the result would be if I excluded the inflation variable, as that seemed to add additional unnecessary noise. In all states except Pennsylvania, the most important explanatory variable  (i.e. correlated with the largest change in vote share, all else held constant) was **Q2 GDP** growth when running a multivariate regression with all of the aboe explanatory variables.
