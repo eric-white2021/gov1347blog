@@ -9,3 +9,5 @@ Hello! Welcome to my Election Analytics Blog for the 2020 election cycle. I will
 # [Blog Post 2 - Economy](posts/blog2.html)
 
 # [Blog Post 3 - Polling](posts/blog3.html)
+
+# [Blog Post 4 - Incumbency](posts/blog4.html)
