@@ -11,3 +11,5 @@ Hello! Welcome to my Election Analytics Blog for the 2020 election cycle. I will
 # [Blog Post 3 - Polling](posts/blog3.html)
 
 # [Blog Post 4 - Incumbency](posts/blog4.html)
+
+# [Blog Post 5 - Air War & Probabilistic Models](posts/blog5.html)
