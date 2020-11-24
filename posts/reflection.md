@@ -5,7 +5,7 @@
 
 ## Key takeaways
 1. My model correctly predicted 48 of the 50 states and missed 1 Congressional district as well
-2. 
+2. In terms of margin of victory, my model struggled the most with non-competitive states, and although that is preferable to struggling with swing states, it is still certainly something I would like to address in order to improve the model.
 3. 
 
 ## Model recap
@@ -72,7 +72,14 @@ Wyoming|20.71385|79.28615|-58.572306
 
 
 ## Accuracy of my model
+One trend, at least from looking at a map of my errors, is that there seems to be a clear geographic trend to these errors. In particular, I tended to favor western states in Trump's direction and northeast states in Biden's direction to an unnecessary degree in my model. This could be a result of the polls being incorrect or just a function of incomplete data, but I would also imagine that some of it has to do with the demographic variables that I included in my model. It is possible that these states in the northwest tend to be whiter and that my model underestimated Biden's support from Black voters. To contrast with the Northeast, the demographics aspect of my model may have favored Democrats in these areas. It is hard to explain, at least based on that rationalization, why California favored Trump more than it should have in my model and why West Virginia favored Biden more than it should have in my model, but it is possible that these states, which both have higher than average unemployment, could be drawn to one extreme or the other. Additionally, these are highly partisan states, so in addition to there not being sufficient polling in these areas, it is also possible that the modeling process that allowed me to obtain generally accurate results in close states is not as applicable to safe states because of the partisan dynamics. For example, in California this year, Biden won a greater percentage of the vote than Clinton in 2016, yet won by a smaller margin than she did, in large part due to third party voters. The broader conclusion to be drawn from that phenomenon and the deficiencies that the model had in closer states is that there is more room for error in these partisan states, so a shift of a few points in one direction or the other might look meaningful when examining a graph like the one below, but in the grand scheme of things, when analyzing the election, these deviations are largely irrelevant. 
+
+Ultimately, of all of the possible explanations I provided, I think the last one makes the most sense. Stronghold states like California, Illinois, Idaho, West Virginia, and Wyoming were the states with the greatest errors in their prediction, which gives credence to the idea that the model struggles with highly partisan states. The trend of large errors in safe states is a much stronger trend than the geographical trend mentioned above, though that is certainly relevant as well.
+
+Below are two graphs, the first of which shows all states and how far off my predictions were. The second graph isolates only the states that I predicted to be within 10 points with my model. 
 
 ![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/model_error_all.png?raw=true)
+
+Close states only
 
 ![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/model_error.png?raw=true)
