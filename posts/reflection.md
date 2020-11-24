@@ -4,7 +4,7 @@
 
 
 ## Key takeaways
-1. 
+1. My model correctly predicted 48 of the 50 states and missed 1 Congressional district as well
 2. 
 3. 
 
@@ -71,3 +71,8 @@ West Virginia|38.99759|61.00241|-22.0048129
 Wyoming|20.71385|79.28615|-58.572306
 
 
+## Accuracy of my model
+
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/model_error_all.png?raw=true)
+
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/model_error.png?raw=true)
