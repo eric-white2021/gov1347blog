@@ -80,6 +80,16 @@ Below are two graphs, the first of which shows all states and how far off my pre
 
 ![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/model_error_all.png?raw=true)
 
-Close states only
+#### *Close states only*
 
 ![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/model_error.png?raw=true)
+
+
+## Testing that hypothesis
+
+
+
+
+## Improving the model for the future
+
+One item I wish that I had addressed in my original model was representing turnout. I had made attempts at modeling turnout in past blog posts and although I was able to predict the probability that an individual vote would go to a given candidate based on turnout, these models felt relatively arbitrarily decided and I did not feel confident in adding them to my model. Also, an assumption that I operated under was that in general, high turnout would mean better Democratic performance. This was not explicitly stated in the modeling for turnout that I had done, but the historical data pointed in that direction and there is (research that indicates the same phenomenon)[https://doi.org/10.1017/psrm.2015.18]. This was not necessarily the case this year, and although increased turnout seemed to lead to better performance for Biden, particularly in Georgia, Michigan, and Wisconsin, it would be hard to generalize this to the entire population as a whole, which is what I assumed a model for turnout would do. I am unsure how I would be able to properly model turnout, particularly in a year such as this, where one could make the argument that COVID-19 would decrease turnout, but increased vote-by-mail would increase turnout. Not only would I struggle to be able to retroactively determine how to accurately model turnout (something that also contributed to polls being off this year), I would be unsure as to how to apply that methodology to future elections that would not be impacted by COVID and may not have the same portion of the electorate voting by mail. 
