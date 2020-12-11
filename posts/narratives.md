@@ -21,31 +21,31 @@ Specifically, I looked at the following counties: Maricopa (AZ), Fulton (GA), De
 
 Averaging over Biden's performance relative to Clinton across each county, Biden actually did greater than 3 percentage points worse than Clinton on a county by county basis. Therefore, Biden's victory was the result of his performance in Maricopa County, which includes Arizona and the surrounding suburbs. He did 5 points better than Clinton in this all-important county. Because Maricopa County is not made up just of Phoenix, but also the surrounding suburbs, it is difficult to determine what the driving factor behind Biden's overperformance in this state may have been from this method. 
 
-![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/az_reflection.png?raw=true)
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/az_narrative.png?raw=true)
 
 #### Georgia: 
 
 In Georgia, as an average of all of the counties, Biden outperformed Clinton by 0.95 percentage points, and his win in Georgia was perhaps his most impressive of any of the states. In DeKalb County, which includes part of Atlanta but is largely suburban, Biden outperformed Clinton by 4.64 points; in Fulton County, wherein 90% of the city of Atlanta lies, Biden did 5.5 percentage points better. It is hard to say whether or not this result is significant, but it is certainly worth noting that Biden's level of relative success in the more urban county was greater than in the suburban county.
 
-![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/ga_reflection.png?raw=true)
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/ga_narrative.png?raw=true)
 
 #### Michigan: 
 
 Across all counties, Biden outperformed Clinton by 1.4 points; this value is presumably the result of his success in areas such as Saginaw county, as shown above, as he only outperformed Clinton by around 0.6 percentage points in Wayne County, where Detroit is located. Again, this result may not be statistically significant, but it is still worth noting that it does not appear that the primary reason as to why Biden won in Michigan is because of massive margins that Clinton was unable to attain. Clinton's struggles compared to Obama to turn out black voters in urban centers, particularly in Milwaukee and Detroit, have been well documented. It may be the case that Biden suffered from a similar struggle, which would have implications for how the Democratic party attempts to reach these potential voters moving forward.
 
-![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/mi_reflection.png?raw=true)
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/mi_narrative.png?raw=true)
 
 #### Pennsylvania: 
 
 Pennsylvania has two urban areas, Pittsburgh (Allegheny County) and Philadelphia (Philadelphia County). In Allegheny County, Biden outperformed Clinton by 4 points, while in Philadelphia County, Biden actually performed worse than Clinton by 3.44 points. On a county-by-county basis on average, Biden was able to outperform Clinton's margin by 1.35 points. Based on the graph below, it actually appears that one of the main reasons why Biden was able to win Pennsylvania is because of his performance in Erie County (the northwest most county in the state), which is seen as something of a bellwether.
 
-![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/pa_reflection.png?raw=true)
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/pa_narrative.png?raw=true)
 
 #### Wisconsin: 
 
 Wisconsin was very closely contested in 2016, with Clinton narrowly losing the state. Averaging across counties, Biden performed worse than Clinton in the state as a whole by 0.28 percentage points, but was able to outperform her by 3.49 points in Milwaukee County. Like the result seen in Arizona, it is hard to disaggregate suburban performance from urban performance in this state in particular because Milwaukee County includes suburbs as well. Ultimately, I would argue the results are inconclusive based on this county alone, but considering some of the other data, I would lean toward this result actually supporting the narrative that Biden's suburban success was decisive in this county.
 
-![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/wi_reflection.png?raw=true)
+![](https://github.com/eric-white2021/gov1347blog/blob/gh-pages/wi_narrative.png?raw=true)
 
 
 ## Conclusion
